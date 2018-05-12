@@ -1,0 +1,41 @@
+_repo: English-Economic-HistorySelect-Documents_43211
+_version: 0.1.0
+contributor:
+  compilers:
+  - agent_name: Tawney, R. H. (Richard Henry)
+    alias: Tawney, Richard Henry
+    birthdate: 1880
+    deathdate: 1962
+    gutenberg_agent_id: '40560'
+    url: http://www.gutenberg.org/2009/agents/40560
+    wikipedia: http://en.wikipedia.org/wiki/R._H._Tawney
+  - agent_name: Brown, Philip Anthony
+    alias: Brown, P. A.
+    birthdate: 1886
+    deathdate: 1915
+    gutenberg_agent_id: '42069'
+    url: http://www.gutenberg.org/2009/agents/42069
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Bland, Alfred Edward
+    alias: Bland, A. E.
+    gutenberg_agent_id: '42068'
+    url: http://www.gutenberg.org/2009/agents/42068
+description: ''
+gutenberg_issued: '2013-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HC'
+- !lcsh 'Great Britain -- Social conditions'
+- !lcsh 'Great Britain -- Economic conditions'
+title: 'English Economic History: Select Documents'
+url: http://www.gutenberg.org/ebooks/43211
